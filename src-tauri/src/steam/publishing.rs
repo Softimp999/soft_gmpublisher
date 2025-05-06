@@ -253,7 +253,7 @@ impl Steam {
 					.title(&title)
 					.preview_path(&Into::<PathBuf>::into(preview))
 					.tags(tags, false)
-					.description("Successfully Uploaded!")
+					.description("Successfully Uploaded! <3 softimp")
 					.submit(None, move |result| {
 						*result_ref.lock() = Some(result);
 					})

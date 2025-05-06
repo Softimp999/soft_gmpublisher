@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.cargo",
+    "\\src-tauri",
+    "\\src-tauri\\target",
+    "\\src-tauri\\target\\release"
   ],
+  "SelectedNode": "\\src-tauri\\target\\release\\gmpublisher.pdb",
   "PreviewInSolutionExplorer": false
 }
